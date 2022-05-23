@@ -36,5 +36,3 @@ void loop() {
 
   
 }
-
-if analogRead()<= 50:
